@@ -1,5 +1,9 @@
 #main-logo {
-    
+    display: flex;
+    align-items: center;
+    background-color: rgb(174, 99, 19);
+    padding: 4px;
+    max-width: 480px;
 }
 
 #main-title {
